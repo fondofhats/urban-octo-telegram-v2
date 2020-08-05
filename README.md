@@ -49,5 +49,4 @@ The remote site is used for QA and hosted on GitHub Pages
 
 ### Screenshot
 
-![Image of Horiseon Screenshot]
-(screencapture-fondofhats-github-io-urban-octo-telegram-v2-Develop-2020-08-05-15_21_37.jpg?raw=true)
+![Horiseon Screenshot](https://raw.githubusercontent.com/fondofhats/urban-octo-telegram-v2/master/screencapture-fondofhats-github-io-urban-octo-telegram-v2-Develop-2020-08-05-15_21_37.jpg)
